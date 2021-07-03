@@ -1,0 +1,40 @@
+
+body {
+    foont: 30px 'Trebuchet MS', 'Lucida Sans Unicode';
+}
+
+.navbar {
+    background-color: #B579DE  ;
+}
+
+.nav-link {
+    color: white;
+}
+
+.quem-somos {
+    background-color: #F0A85C ;     
+}
+
+.parceiros {
+    background-color: #51D95E ;
+}
+
+.servicos {
+    background-color: #D95168 ;
+}
+
+.margin {
+    padding-top: 30px ;
+    padding-bottom: 40px;    
+    color: white;
+}
+
+.margin-text {
+    margin: 30px;
+}
+
+.rodape {
+    background-color: #8c8492  ;
+    font-size: 20px;
+    padding-left: 25px;
+}
